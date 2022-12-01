@@ -16,7 +16,7 @@ export default function Home({ /*exploreData, cardsData*/ }) {
 
 
   return (
-    <div className="">
+    <div className="bg-white">
       <Head>
         <title>AirBNB</title>
         <meta name="AirBnB" content="Created ob Next.JS by S.Lebedev" />
